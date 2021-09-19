@@ -1,0 +1,3 @@
+Python Funktionen sind call by reference.
+Bei Veränderung des iterable besser eine kopie nutzen!!!
+
